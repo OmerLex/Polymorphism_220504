@@ -7,6 +7,7 @@ namespace Polymorphism_220504
         static void Main(string[] args)
         {
             // This is first comment
+            // This is second comment
             Console.WriteLine("Polymorphism!");
             Car car = new Car();
             Bicycle bicycle = new Bicycle();
